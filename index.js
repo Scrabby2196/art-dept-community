@@ -12,7 +12,12 @@ export default function Home() {
       <main>
         <h1>Welcome to the Art Department Community</h1>
         <p>This is a space for Bollywood movie and ad film industry professionals to connect, share, and collaborate!</p>
-        <a href="/posts">Check out the latest posts</a>
+        
+        <ul>
+          <li><a href="/posts">📝 Community Posts</a></li>
+          <li><a href="/production-designers">🎬 Rated Production Designers</a></li>
+          <li><a href="/jobs">💼 Job Listings</a></li>
+        </ul>
       </main>
 
       <footer>
